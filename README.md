@@ -25,4 +25,4 @@
 		- volendo si possono migliorare le caserme e le banche spendendo soldi
  
 # non funziona
-questo é un progetto vecchio e non so se lo proseguiró,ma nel dubbio lo pubblico come ricordo
+questo é un progetto vecchio(2 anni fa,che ho pubblicato privatamente su github dopo un anno) e non so se lo proseguiró,ma nel dubbio lo pubblico come ricordo
