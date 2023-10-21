@@ -8,7 +8,7 @@
 		- ### perchè migliore di territorial.io?  
 			- più meccaniche  
 			- graficamente migliore  
-			- fatto in rust(maggior parte delle persone se ne fregherà però su reddit penso che prenderà piede)  
+			- fatto in rust
 	- ## regole  
 		- si spawna in una mappa (n*n)  
 		- si sceglie dove mettere la capitale del territorio che è stato assegnato che dev'essere uguale a quello stato dato agli altri ed ai bot(quindi si divide in parti uguali la mappa)  
@@ -22,4 +22,7 @@
 		- si può comprare una:  
 			- banca => costa n soldi e da ogni tot x soldi  
 			- caserma => costa n soldi e da ogni tot x soldati  
-		- volendo si possono migliorare le caserme e le banche spendendo soldi  
+		- volendo si possono migliorare le caserme e le banche spendendo soldi
+ 
+# non funziona
+questo é un progetto vecchio e non so se lo proseguiró,ma nel dubbio lo pubblico come ricordo
